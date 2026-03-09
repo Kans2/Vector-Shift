@@ -1,0 +1,5 @@
+uvicorn main:app --reload.
+
+please focus on walking through the final functionality and design, along with a brief discussion of your code.
+
+The assessment will be judged based on successful completion of the task, code architecture, and design
