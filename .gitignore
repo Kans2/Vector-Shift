@@ -10,7 +10,7 @@ venv/
 *.egg-info/
 
 # Build
-frontend/build/
+
 dist/
 
 # IDE
